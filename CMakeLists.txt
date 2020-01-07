@@ -14,6 +14,8 @@ if(NOT CMAKE_BUILD_TYPE)
   )
 endif()
 
+project(cpufeatures C)
+
 set(PROJECT_VERSION 0.1)
 
 ################################################################################
